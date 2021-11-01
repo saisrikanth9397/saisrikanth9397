@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**saisrikanth9397/saisrikanth9397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Sai Srikanth Sarabu
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a Computer and Information Sciences student at the Oklahoma state university, who is passionate about writing code, solving problems, and building software.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-srikanth-sarabu) [Gmail](mailto:sai9397@gmail.com) : sai9397@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Learning :** Big Data Analytics | Data Structures |Salesforce development	
+-  **Languages :** Java, Javascript, Apex, PySpark, Python, Lightning web components, Lightning components, C, HTML, CSS
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=saisrikanth9397&show_icons=true)
